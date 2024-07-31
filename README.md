@@ -19,7 +19,7 @@ Telegram @nstppbl
 
 3. **Compile the Java code:**
    ```bash
-   javac src/Main.java
+   javac Main.java
 
 4. **Run the Java program:**
    ```bash
